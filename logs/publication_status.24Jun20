@@ -1,0 +1,77 @@
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=18'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Bodydb='++ sqlplus -s /nolog
++ publish_count='\''
+	18'\''
+++ echo 18
+++ tail -1
++ totalcount=18
++ echo 18
+18
++ [[ -n 18 ]]
+++ eval date '\'''\''\'\'''\''+'\'' %D '\''%T'\''\'\'''\'''\''
++++ date '\''+ %D %T'\''
++ echo -e '\'' 06/24/20 11:59:32 scrub process_1 created'\''
+ 06/24/20 11:59:32 scrub process_1 created'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=19'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Bodydb='++ sqlplus -s /nolog
++ publish_count='\''
+	19'\''
+++ echo 19
+++ tail -1
++ totalcount=19
++ echo 19
+19
++ [[ -n 19 ]]
+++ eval date '\'''\''\'\'''\''+'\'' %D '\''%T'\''\'\'''\'''\''
++++ date '\''+ %D %T'\''
++ echo -e '\'' 06/24/20 12:07:20 scrub process_1 created'\''
+ 06/24/20 12:07:20 scrub process_1 created'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=19'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=23'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 06/24/20 12:18:33 mail sent successfully'
+ 06/24/20 12:18:33 mail sent successfully
++ subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Content-Type: text/html
+./inprogress.sh: line 55: Content-Type:: command not found
++ Body='Total number of schedules triggered=24'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 06/24/20 12:26:04 mail sent successfully'
+ 06/24/20 12:26:04 mail sent successfully
++ subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Content-Type: text/html
+./inprogress.sh: line 56: Content-Type:: command not found
++ Body='Total number of schedules triggered=29'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 06/24/20 13:16:53 mail sent successfully'
+ 06/24/20 13:16:53 mail sent successfully

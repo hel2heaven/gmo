@@ -1,0 +1,64 @@
++ subject='[GMO PROD][SUCCESS][Europe|Europe|B37075_Europe Req file sftp'\''ed successfully]'
++ Content-Type: text/html
+/home/scripts/GMO_PROD/Business_Process/Request_ICE_Europe_Future_check.sh: line 49: Content-Type:: command not found
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/Request_ICE_Europe_Future_check.sh.html
++ Body='<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="generator" content="SQL*Plus 12.2.0">
+<style type='\''\'\'''\''text/css'\''\'\'''\''> body {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} p {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} table,tr,td {font:10pt Arial,Helvetica,sans-serif; color:Black; background:#f7f7e7; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;} th {font:bold 10pt Arial,Helvetica,sans-serif; color:#336699; background:#cccc99; padding:0px 0px 0px 0px;} h1 {font:16pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; border-bottom:1px solid #cccc99; margin-top:0pt; margin-bottom:0pt; padding:0px 0px 0px 0px;-
+} h2 {font:bold 10pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; margin-top:4pt; margin-bottom:0pt;} a {font:9pt Arial,Helvetica,sans-serif; color:#663300; background:#ffffff; margin-top:0pt; margin-bottom:0pt; vertical-align:top;}</style><title>SQL*Plus Report</title>
+</head>
+<body>
+
+<p>
+<table BORDER=1>
+<tr>
+<th scope="col">
+CREATED
+</th>
+<th scope="col">
+LASTWAITIN
+</th>
+<th scope="col">
+DESCRIPTION
+</th>
+<th scope="col">
+CONNECTOR_NAME
+</th>
+<th scope="col">
+EXTERNALMESSAGEID
+</th>
+<th scope="col">
+CONNECTOR_NAME
+</th>
+</tr>
+<tr>
+<td>
+03-AUG-20 10.52.08.000000 AM
+</td>
+<td>
+Finished
+</td>
+<td>
+Europe|Europe|B37075_Europe
+</td>
+<td>
+ICE_Future
+</td>
+<td>
+B37075_Europe.txt
+</td>
+<td>
+ICE_Future
+</td>
+</tr>
+</table>
+<p>
+</body>'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 08/03/20 10:53:02 mail sent successfully'
+ 08/03/20 10:53:02 mail sent successfully

@@ -1,0 +1,29 @@
+##GMO_PROD DB Queries
+
+00 10 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_ALL.sh 10AM /dev/null 2>&1
+20 12 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_ALL.sh 12PM /dev/null 2>&1
+#00 16 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_ALL.sh 4PM /dev/null 2>&1
+15 17 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_ALL.sh 5PM /dev/null 2>&1
+00 19 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_ALL.sh 7PM /dev/null 2>&1
+#22 12 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_FXspot_London.sh 12PM /dev/null 2>&1
+45 11 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_FXspot_London.sh 12PM /dev/null 2>&1
+00 13 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_FXspot_London.sh 1PM /dev/null 2>&1
+40 16 * * 1-5 /home/scripts/GMO_PROD/golden_price_query_FXspot_NY.sh /dev/null 2>&1
+24 12 * * 1-5 /home/scripts/GMO_PROD/MissingPriceAoDTask.sh 12PM /dev/null 2>&1
+02 16 * * 1-5 /home/scripts/GMO_PROD/MissingPriceAoDTask.sh 4PM /dev/null 2>&1
+
+
+###Auto-DB-Query-Execution
+*/2 * * * * /home/scripts/GMO_PROD/auto_dbquery_executer.sh > /dev/null 2>&1
+
+##GMO_PROD Business Process Jobs
+
+*/10 10-19 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh GMOSecuritySOI >> /dev/null 2>&1
+40 06 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh Instrument_Deactivation >> /dev/null 2>&1
+26 09 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh GMO_ASIA_FUTURE_OPTION_PP_GMO_ASIA_FUTURE_OPTION >> /dev/null 2>&1
+30 17 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh Publish_GoldenSilverPriceReport >> /dev/null 2>&1
+00 18 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh Publish_StalePriceReport >> /dev/null 2>&1
+15 17 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh Publish_ActiveInstrument >> /dev/null 2>&1
+25 15 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh GMO_EUROPE_PP_GMO_EUROPE_EQUITY >> /dev/null 2>&1
+24 15 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh GMO_EUROPE_RIGHTS_WARRANT_PP_GMO_EUROPE_RIGHT_WARRANT >> /dev/null 2>&1
+22 14 * * 1-5 /home/scripts/GMO_PROD/Business_Process/business_process_master.sh GMO_EUROPE_FUTURE_OPTION_PP_GMO_EUROPE_FUTURE_OPTION >> /dev/null 2>&1

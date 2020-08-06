@@ -1,0 +1,218 @@
++ subject='[GMO Prod][Publish_GoldenSilverPriceReport]'
++ Content-Type: text/html
+./test.sh: line 46: Content-Type:: command not found
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/Publish_GoldenSilverPriceReport.html
++ Body='<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="generator" content="SQL*Plus 12.2.0">
+<style type='\''\'\'''\''text/css'\''\'\'''\''> body {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} p {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} table,tr,td {font:10pt Arial,Helvetica,sans-serif; color:Black; background:#f7f7e7; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;} th {font:bold 10pt Arial,Helvetica,sans-serif; color:#336699; background:#cccc99; padding:0px 0px 0px 0px;} h1 {font:16pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; border-bottom:1px solid #cccc99; margin-top:0pt; margin-bottom:0pt; padding:0px 0px 0px 0px;-
+} h2 {font:bold 10pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; margin-top:4pt; margin-bottom:0pt;} a {font:9pt Arial,Helvetica,sans-serif; color:#663300; background:#ffffff; margin-top:0pt; margin-bottom:0pt; vertical-align:top;}</style><title>SQL*Plus Report</title>
+</head>
+<body>
+
+ERROR:
+<br>
+ORA-12154: TNS:could not resolve the connect identifier specified
+<br>
+
+
+SP2-0640: Not connected
+<br>
+</body>'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f elk_mon_alert@aimsoftware.com -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 05/27/20 10:14:24 mail sent successfully'
+ 05/27/20 10:14:24 mail sent successfully
++ subject='[GMO Prod][Publish_GoldenSilverPriceReport]'
++ Content-Type: text/html
+./test.sh: line 46: Content-Type:: command not found
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/Publish_GoldenSilverPriceReport.html
++ Body='<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="generator" content="SQL*Plus 12.2.0">
+<style type='\''\'\'''\''text/css'\''\'\'''\''> body {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} p {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} table,tr,td {font:10pt Arial,Helvetica,sans-serif; color:Black; background:#f7f7e7; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;} th {font:bold 10pt Arial,Helvetica,sans-serif; color:#336699; background:#cccc99; padding:0px 0px 0px 0px;} h1 {font:16pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; border-bottom:1px solid #cccc99; margin-top:0pt; margin-bottom:0pt; padding:0px 0px 0px 0px;-
+} h2 {font:bold 10pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; margin-top:4pt; margin-bottom:0pt;} a {font:9pt Arial,Helvetica,sans-serif; color:#663300; background:#ffffff; margin-top:0pt; margin-bottom:0pt; vertical-align:top;}</style><title>SQL*Plus Report</title>
+</head>
+<body>
+
+ERROR:
+<br>
+ORA-12154: TNS:could not resolve the connect identifier specified
+<br>
+
+
+SP2-0640: Not connected
+<br>
+</body>'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f elk_mon_alert@aimsoftware.com -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 05/27/20 10:25:27 mail sent successfully'
+ 05/27/20 10:25:27 mail sent successfully
++ subject='[GMO Prod][Publish_GoldenSilverPriceReport]'
++ Content-Type: text/html
+./test.sh: line 46: Content-Type:: command not found
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/Publish_GoldenSilverPriceReport.html
++ Body='<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="generator" content="SQL*Plus 12.2.0">
+<style type='\''\'\'''\''text/css'\''\'\'''\''> body {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} p {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} table,tr,td {font:10pt Arial,Helvetica,sans-serif; color:Black; background:#f7f7e7; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;} th {font:bold 10pt Arial,Helvetica,sans-serif; color:#336699; background:#cccc99; padding:0px 0px 0px 0px;} h1 {font:16pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; border-bottom:1px solid #cccc99; margin-top:0pt; margin-bottom:0pt; padding:0px 0px 0px 0px;-
+} h2 {font:bold 10pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; margin-top:4pt; margin-bottom:0pt;} a {font:9pt Arial,Helvetica,sans-serif; color:#663300; background:#ffffff; margin-top:0pt; margin-bottom:0pt; vertical-align:top;}</style><title>SQL*Plus Report</title>
+</head>
+<body>
+
+<p>
+<table BORDER=1>
+<tr>
+<td>
+Publish_GoldenSilverPriceReport
+</td>
+<td align="right">
+	 5
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+Finished
+</td>
+</tr>
+</table>
+<p>
+</body>'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f elk_mon_alert@aimsoftware.com -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 05/27/20 10:28:48 mail sent successfully'
+ 05/27/20 10:28:48 mail sent successfully
++ subject='[GMO Prod][Publish_GoldenSilverPriceReport]'
++ Content-Type: text/html
+./test.sh: line 46: Content-Type:: command not found
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/Publish_GoldenSilverPriceReport.html
++ Body='<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="generator" content="SQL*Plus 12.2.0">
+<style type='\''\'\'''\''text/css'\''\'\'''\''> body {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} p {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} table,tr,td {font:10pt Arial,Helvetica,sans-serif; color:Black; background:#f7f7e7; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;} th {font:bold 10pt Arial,Helvetica,sans-serif; color:#336699; background:#cccc99; padding:0px 0px 0px 0px;} h1 {font:16pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; border-bottom:1px solid #cccc99; margin-top:0pt; margin-bottom:0pt; padding:0px 0px 0px 0px;-
+} h2 {font:bold 10pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; margin-top:4pt; margin-bottom:0pt;} a {font:9pt Arial,Helvetica,sans-serif; color:#663300; background:#ffffff; margin-top:0pt; margin-bottom:0pt; vertical-align:top;}</style><title>SQL*Plus Report</title>
+</head>
+<body>
+
+<p>
+<table BORDER=1>
+<tr>
+<td>
+Publish_GoldenSilverPriceReport
+</td>
+<td align="right">
+	 5
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+Finished
+</td>
+</tr>
+</table>
+<p>
+</body>'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/bin/mail -f elk_mon_alert@aimsoftware.com -t
+More than one file given with -f
+Usage: mail -eiIUdEFntBDNHRVv~ -T FILE -u USER -h hops -r address -s SUBJECT -a FILE -q FILE -f FILE -A ACCOUNT -b USERS -c USERS -S OPTION users
++ '[' 2 -eq 0 ']'
++ subject='[GMO Prod][Publish_GoldenSilverPriceReport]'
++ Content-Type: text/html
+./test.sh: line 46: Content-Type:: command not found
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/Publish_GoldenSilverPriceReport.html
++ Body='<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="generator" content="SQL*Plus 12.2.0">
+<style type='\''\'\'''\''text/css'\''\'\'''\''> body {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} p {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} table,tr,td {font:10pt Arial,Helvetica,sans-serif; color:Black; background:#f7f7e7; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;} th {font:bold 10pt Arial,Helvetica,sans-serif; color:#336699; background:#cccc99; padding:0px 0px 0px 0px;} h1 {font:16pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; border-bottom:1px solid #cccc99; margin-top:0pt; margin-bottom:0pt; padding:0px 0px 0px 0px;-
+} h2 {font:bold 10pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; margin-top:4pt; margin-bottom:0pt;} a {font:9pt Arial,Helvetica,sans-serif; color:#663300; background:#ffffff; margin-top:0pt; margin-bottom:0pt; vertical-align:top;}</style><title>SQL*Plus Report</title>
+</head>
+<body>
+
+<p>
+<table BORDER=1>
+<tr>
+<td>
+Publish_GoldenSilverPriceReport
+</td>
+<td align="right">
+	 5
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+Finished
+</td>
+</tr>
+</table>
+<p>
+</body>'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 05/27/20 10:41:03 mail sent successfully'
+ 05/27/20 10:41:03 mail sent successfully
++ subject='[GMO Prod][Publish_GoldenSilverPriceReport]'
++ Content-Type: text/html
+./test.sh: line 46: Content-Type:: command not found
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/Publish_GoldenSilverPriceReport.html
++ Body='<head>
+<meta http-equiv="Content-Type" content="text/html; charset=US-ASCII">
+<meta name="generator" content="SQL*Plus 12.2.0">
+<style type='\''\'\'''\''text/css'\''\'\'''\''> body {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} p {font:10pt Arial,Helvetica,sans-serif; color:black; background:White;} table,tr,td {font:10pt Arial,Helvetica,sans-serif; color:Black; background:#f7f7e7; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;} th {font:bold 10pt Arial,Helvetica,sans-serif; color:#336699; background:#cccc99; padding:0px 0px 0px 0px;} h1 {font:16pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; border-bottom:1px solid #cccc99; margin-top:0pt; margin-bottom:0pt; padding:0px 0px 0px 0px;-
+} h2 {font:bold 10pt Arial,Helvetica,Geneva,sans-serif; color:#336699; background-color:White; margin-top:4pt; margin-bottom:0pt;} a {font:9pt Arial,Helvetica,sans-serif; color:#663300; background:#ffffff; margin-top:0pt; margin-bottom:0pt; vertical-align:top;}</style><title>SQL*Plus Report</title>
+</head>
+<body>
+
+<p>
+<table BORDER=1>
+<tr>
+<td>
+Publish_GoldenSilverPriceReport
+</td>
+<td align="right">
+	 5
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+26-MAY-20 05.30.08.000000 PM
+</td>
+<td>
+Finished
+</td>
+</tr>
+</table>
+<p>
+</body>'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -t
++ '[' 0 -eq 0 ']'
+++ eval date ''\''+' %D '%T'\'''
++++ date '+ %D %T'
++ echo -e ' 05/27/20 10:43:49 mail sent successfully'
+ 05/27/20 10:43:49 mail sent successfully

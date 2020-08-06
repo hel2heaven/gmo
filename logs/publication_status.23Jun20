@@ -1,0 +1,99 @@
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=2'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Bodydb='++ sqlplus -s /nolog
++ publish_count='\''
+	 2'\''
+++ echo 2
+++ tail -1
++ totalcount=2
++ echo 2
+2
++ [[ -n 2 ]]
+++ eval date '\'''\''\'\'''\''+'\'' %D '\''%T'\''\'\'''\'''\''
++++ date '\''+ %D %T'\''
++ echo -e '\'' 06/23/20 05:03:38 scrub process_1 created'\''
+ 06/23/20 05:03:38 scrub process_1 created'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=8'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Bodydb='++ sqlplus -s /nolog
++ publish_count='\''
+	 8'\''
+++ echo 8
+++ tail -1
++ totalcount=8
++ echo 8
+8
++ [[ -n 8 ]]
+++ eval date '\'''\''\'\'''\''+'\'' %D '\''%T'\''\'\'''\'''\''
++++ date '\''+ %D %T'\''
++ echo -e '\'' 06/23/20 05:21:20 scrub process_1 created'\''
+ 06/23/20 05:21:20 scrub process_1 created'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=7'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Bodydb='++ sqlplus -s /nolog
++ publish_count='\''
+	 7'\''
+++ echo 7
+++ tail -1
++ totalcount=7
++ echo 7
+7
++ [[ -n 7 ]]
+++ eval date '\'''\''\'\'''\''+'\'' %D '\''%T'\''\'\'''\'''\''
++++ date '\''+ %D %T'\''
++ echo -e '\'' 06/23/20 05:23:12 scrub process_1 created'\''
+ 06/23/20 05:23:12 scrub process_1 created'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=7'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Bodydb='++ sqlplus -s /nolog
++ publish_count='\''
+	 7'\''
+++ echo 7
+++ tail -1
++ totalcount=7
++ echo 7
+7
++ [[ -n 7 ]]
+++ eval date '\'''\''\'\'''\''+'\'' %D '\''%T'\''\'\'''\'''\''
++++ date '\''+ %D %T'\''
++ echo -e '\'' 06/23/20 05:25:58 scrub process_1 created'\''
+ 06/23/20 05:25:58 scrub process_1 created'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
+sendmail: warning: /etc/postfix/main.cf, line 756: overriding earlier entry: smtp_tls_security_level=may
+sendmail: warning: /etc/postfix/main.cf, line 762: overriding earlier entry: smtp_tls_CAfile=/etc/pki/tls/certs/ca-bundle.crt
+postdrop: warning: /etc/postfix/main.cf, line 756: overriding earlier entry: smtp_tls_security_level=may
+postdrop: warning: /etc/postfix/main.cf, line 762: overriding earlier entry: smtp_tls_CAfile=/etc/pki/tls/certs/ca-bundle.crt
++ Subject='[GMO Prod][Critical Alert][Publication message status is Not Ok – Pls Investigate]'
++ Body='Total number of schedules triggered=6'
++ emailHTML_s=/home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
+++ cat /home/scripts/GMO_PROD/Business_Process/html_files/publication_status.html
++ Bodydb='++ sqlplus -s /nolog
++ publish_count='\''
+	 6'\''
+++ echo 6
+++ tail -1
++ totalcount=6
++ echo 6
+6
++ [[ -n 6 ]]
+++ eval date '\'''\''\'\'''\''+'\'' %D '\''%T'\''\'\'''\'''\''
++++ date '\''+ %D %T'\''
++ echo -e '\'' 06/23/20 05:29:23 scrub process_1 created'\''
+ 06/23/20 05:29:23 scrub process_1 created'
++ Auto_Generate_Msg='**********This email is an auto-generated mail. Please do not reply**********'
++ /usr/sbin/sendmail -f gmo_prod_alert -t
